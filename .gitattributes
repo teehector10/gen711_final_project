@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# (JL) all memebers were finally able to access the shared folder through vscode 
+# (JL) below commands were run @ 4:30 on 04/22 to view fasta sequences 
+cat sequences.fasta
+cat sequences.fasta.april2022.txt
