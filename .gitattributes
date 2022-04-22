@@ -2,5 +2,11 @@
 * text=auto
 # (JL) all memebers were finally able to access the shared folder through vscode 
 # (JL) below commands were run @ 4:30 on 04/22 to view fasta sequences 
+# (JL) :q after output in terminal to return to base path 
 cat sequences.fasta
 cat sequences.fasta.april2022.txt
+less sequences.fasta 
+less sequences.fasta.april2022.txt
+ls 
+grep 'ACC' sequences.fasta 
+# above is example code of searching for a certain sequence w/in file 
