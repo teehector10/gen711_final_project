@@ -9,10 +9,10 @@ This image from the previously cited paper titled "Next-Generation Sequencing Re
 ![image](https://user-images.githubusercontent.com/103778390/166063050-5dc2afef-0e22-4914-932f-a1e870fcead1.png)
 
 ## Methods [Tobi]
-(PLEASE FILL IN SPECIFIC STATEMENTS)
+(PLEASE FILL IN SPECIFIC STATEMENTS BASED ON RUBRIC)
 
 ## Findings 
-(BRIEF DESCRIPTION OF EACH)
+(BRIEF DESCRIPTION OF EACH BELOW)
 
 ### Figure 2 [Izzy]
 ((INSERT PHYLOGENETIC TREE HERE))
