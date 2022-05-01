@@ -20,7 +20,8 @@ This image from the previously cited paper titled "Next-Generation Sequencing Re
 [undefined.pdf](https://github.com/teehector10/gen711_final_project/files/8599556/undefined.pdf)
 
 ### Figure 3 [Brenna]
-((INSERT ALIGNMENT HERE))
+<img width="1404" alt="Screen Shot 2022-04-29 at 4 22 42 PM" src="https://user-images.githubusercontent.com/103778546/166161725-1fa7f79c-138d-4303-9518-dd243ed94291.png">
+
 
 ## Sources 
 Xiaomin, Chen, et al. “Next-Generation Sequencing Reveals the Progression of COVID-19.” Frontiers in Cellular and Infection Microbiology, vol. 11, no. 2235-2988, 2021, https://doi.org/10.3389/fcimb.2021.632490. 
