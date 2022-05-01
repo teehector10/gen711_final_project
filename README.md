@@ -16,7 +16,7 @@ This image from the previously cited paper titled "Next-Generation Sequencing Re
 
 ### Figure 2 [Izzy]
 [undefined.pdf](https://github.com/teehector10/gen711_final_project/files/8599550/undefined.pdf)
-
+<img width="554" alt="Screen Shot 2022-05-01 at 3 03 05 PM" src="https://user-images.githubusercontent.com/103778546/166160815-f95a3ff4-ac0d-4ae6-b81e-3d841cc8141d.png">
 
 ### Figure 3 [Brenna]
 ((INSERT ALIGNMENT HERE))
