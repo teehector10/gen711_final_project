@@ -12,13 +12,13 @@ This image from the previously cited paper titled "Next-Generation Sequencing Re
 (PLEASE FILL IN SPECIFIC STATEMENTS BASED ON RUBRIC)
 
 ## Findings 
-(BRIEF DESCRIPTION OF EACH BELOW)
-
+When conducting our phylogenic tree...
 ### Figure 2 [Izzy]
 <img width="554" alt="Screen Shot 2022-05-01 at 3 03 05 PM" src="https://user-images.githubusercontent.com/103778546/166160815-f95a3ff4-ac0d-4ae6-b81e-3d841cc8141d.png">
 
 [undefined.pdf](https://github.com/teehector10/gen711_final_project/files/8599556/undefined.pdf)
 
+When aligning the sequences we were able to look at how covid has changed by visibly lookin
 ### Figure 3 [Brenna]
 <img width="1404" alt="Screen Shot 2022-04-29 at 4 22 42 PM" src="https://user-images.githubusercontent.com/103778546/166161725-1fa7f79c-138d-4303-9518-dd243ed94291.png">
 
