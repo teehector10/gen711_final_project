@@ -15,7 +15,8 @@ This image from the previously cited paper titled "Next-Generation Sequencing Re
 (BRIEF DESCRIPTION OF EACH BELOW)
 
 ### Figure 2 [Izzy]
-((INSERT PHYLOGENETIC TREE HERE))
+[undefined.pdf](https://github.com/teehector10/gen711_final_project/files/8599550/undefined.pdf)
+
 
 ### Figure 3 [Brenna]
 ((INSERT ALIGNMENT HERE))
