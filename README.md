@@ -9,7 +9,9 @@ This image from the previously cited paper titled "Next-Generation Sequencing Re
 ![image](https://user-images.githubusercontent.com/103778390/166063050-5dc2afef-0e22-4914-932f-a1e870fcead1.png)
 
 ## Methods [Tobi]
-(PLEASE FILL IN SPECIFIC STATEMENTS BASED ON RUBRIC)
+For our project we downloaded fasta files containing the complete SARS CoV-2 genome from samples taken from the oronasopharynx of infected individuals provided by the National Center for Biotechnology Information. We compared the two sequences by running a BLAST alignment to observe any differences to the genome between 2020 and 2022.
+
+
 
 ## Findings 
 When conducting our phylogenic tree...
