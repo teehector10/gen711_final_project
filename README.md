@@ -11,19 +11,15 @@ This image from the previously cited paper titled "Next-Generation Sequencing Re
 ## Methods [Tobi]
 For our project we downloaded fasta files containing the complete SARS-CoV-2 genome from samples taken from the oronasopharynx of infected individuals provided by the National Center for Biotechnology Information. We compared the sequences by running a BLAST alignment to observe any differences in the genomes between 2020 and 2022. Additionally, we constructed a phylogenic tree from the individual samples taken from each year to look at how closely related the two are, and whether there was minimal or greater divergence between the samples.
 
-
-
 ## Findings 
 When conducting our phylogenic tree, we were able to visualize the ancestral background of differing COVID-19 isolations. 
+
 ### Figure 2 [Izzy]
 <img width="554" alt="Screen Shot 2022-05-01 at 3 03 05 PM" src="https://user-images.githubusercontent.com/103778546/166160815-f95a3ff4-ac0d-4ae6-b81e-3d841cc8141d.png">
-
-[undefined.pdf](https://github.com/teehector10/gen711_final_project/files/8599556/undefined.pdf)
 
 When aligning the sequences, we were able to look at how COVID-19 has changed in nucleotides by comparing and contrasting. 
 ### Figure 3 [Brenna]
 <img width="1404" alt="Screen Shot 2022-04-29 at 4 22 42 PM" src="https://user-images.githubusercontent.com/103778546/166161725-1fa7f79c-138d-4303-9518-dd243ed94291.png">
-
 
 ## Sources 
 Xiaomin, Chen, et al. “Next-Generation Sequencing Reveals the Progression of COVID-19.” Frontiers in Cellular and Infection Microbiology, vol. 11, no. 2235-2988, 2021, https://doi.org/10.3389/fcimb.2021.632490. 
