@@ -19,13 +19,12 @@ Useing NCBI, a phylogentic tree was constructed, Figure 2, and an alignment was 
 ### Figure 2
 Spike protein Domains
 
-## Findings 
+## Findings [Izzy]
 When conducting our phylogenic tree, we were able to visualize the ancestral background of differing COVID-19 isolations. We were not able to add the Wohan strain to this tree because of constraints with the NCBI website feature. It would also have been nice to do more then 10 samples, but the alignment limited us and we chose to just do the 10 samples that were analyzed later on.
 
 As seen below, there is an obvious different phylogony to 2020 samples and 2022 samples. With possibility of there being 3 strains, 2022 having 2 forking from eachother.
-
-### Figure 2 [Izzy]
 ![image](https://user-images.githubusercontent.com/103778546/166160815-f95a3ff4-ac0d-4ae6-b81e-3d841cc8141d.png)
+### Figure 3
 
 When aligning the sequences in NCBI, we were able to look at how the COVID-19 genome differend in nucleotides sequences. The red color above shows areas of differences. There is obvious differences in the 2020 and 2022 samples, with an outlier sample in 2022. There are alot more mutations in comparion in the 2022 samples.
 
