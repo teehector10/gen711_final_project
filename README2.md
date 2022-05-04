@@ -7,15 +7,17 @@ This project was inspired by a research report published in March 2021, which di
 Next-generation sequencing techniques of the metagenome and single-cell sequencing was applied to locate SARS-CoV-2 cellular hosts, to prevent interspecies transmission of this disease as well as other related public health scares to come. There is also indepth phylogenic analysis of COVID-19 that has lead to the identification and tracing of strains.
 Our project compares ten different COVID-19 geneome sequences of the oronasopharynx isolation, five from each time span of April 2020 and 5 from April 2022, in the United States patients, using fasta files to generate a Phylogenetic tree to visualize ancestral alterations and run an alignment for nucleotide sequence similarity. These sequences were aligned and imported to DNAsp to identify the spike protien region to furhter reveal nucleotide differences.
 
+![image](https://github.com/teehector10/gen711_final_project/blob/main/Covid_Domains.jpg)
 ### Figure 1 
 The structure of the 29.3kb COVID-19 genome, highlighting the domains of the spike-protein
-
-![image](https://github.com/teehector10/gen711_final_project/blob/main/Covid_Domains.jpg)
 
 ## Methods
 10 complete sequences of SARS-CoV-2 from 2 different time periods (April 2020 & April 2022) were aquired from NCBI, with specifications of being isolated from oronasopharynx and of those located in MA, USA.
 Useing NCBI, a phylogentic tree was constructed, Figure 2, and an alignment was done, Figure 3. The alignment tool was limited to a certain number of nucleotides and unfortunatly we could not perform an analysis on a much larger sample. This alignment was imported to DNAsp, where the sequene was cut down to the 1274bp spike protein.
+
 ![image](https://github.com/teehector10/gen711_final_project/blob/main/spikeProtein2022.png)
+### Figure 2
+Spike protein Domains
 
 ## Findings 
 When conducting our phylogenic tree, we were able to visualize the ancestral background of differing COVID-19 isolations. We were not able to add the Wohan strain to this tree because of constraints with the NCBI website feature. It would also have been nice to do more then 10 samples, but the alignment limited us and we chose to just do the 10 samples that were analyzed later on.
