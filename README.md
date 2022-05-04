@@ -9,7 +9,7 @@ This image from the previously cited paper titled "Next-Generation Sequencing Re
 ![image](https://user-images.githubusercontent.com/103778390/166063050-5dc2afef-0e22-4914-932f-a1e870fcead1.png)
 
 ## Methods [Tobi]
-For our project we downloaded fasta files containing the complete SARS-CoV-2 genome from samples taken from the oronasopharynx of infected individuals provided by the National Center for Biotechnology Information. The source were infected individuals in Massachusetts. From the NCBI website we could create a phylogenic tree and run an alignment on the different samples from 2020 and 2022. We also used software called Snap Gene which allowed further comparison of the COVID19 nucelotide sequences and identified where areas in the sequence varied and showed mutations. 
+For our project we downloaded fasta files containing the complete SARS-CoV-2 genome from samples taken from the oronasopharynx of infected individuals provided by the National Center for Biotechnology Information. We compared the sequences by running a BLAST alignment to observe any differences in the genomes between 2020 and 2022. Additionally, we constructed a phylogenic tree from the individual samples taken from each year to look at how closely related the two are, and whether there was minimal or greater divergence between the samples.
 
 ## Findings 
 When conducting our phylogenic tree, we were able to visualize the ancestral background of differing COVID-19 isolations. 
@@ -26,3 +26,16 @@ When aligning the sequences, we were able to look at how COVID-19 has changed in
 
 ## Sources 
 Xiaomin, Chen, et al. “Next-Generation Sequencing Reveals the Progression of COVID-19.” Frontiers in Cellular and Infection Microbiology, vol. 11, no. 2235-2988, 2021, https://doi.org/10.3389/fcimb.2021.632490. 
+
+Howard,D., Batra,D., Cook,P.W., Caravas,J., Rambo-Martin,B., Sammons,S., Unoarumhi,Y., Schmerer,M., Lacek,K.A., Kendall,T.,Caban Figueroa,V., Ca,H., Morrison,S., Gulvick,C., Sula,E., Paden,C.R. and MacCannell,D. “Severe Acute Respiratory Syndrome Coronavirus 2 Isolate SARS-CoV-2/Human/USA/MA-CDC-STM-3KU8AQYTU/2022, Complete Genome.” NCBI Nucleotide, 26 Apr. 2022, www.ncbi.nlm.nih.gov/nuccore/ON345302. Accessed 4 May 2022.
+
+Howard,D., Batra,D., Cook,P.W., Caravas,J., Rambo-Martin,B.,Sammons,S., Unoarumhi,Y., Schmerer,M., Lacek,K.A., Kendall,T., Caban Figueroa,V., Ca,H., Morrison,S., Gulvick,C., Sula,E., Paden,C.R. and MacCannell,D.“Severe Acute Respiratory Syndrome Coronavirus 2 Isolate SARS-CoV-2/Human/USA/MA-CDC-STM-B4PJHW57C/2022, Complete Genome.” NCBI Nucleotide, 26 Apr. 2022, www.ncbi.nlm.nih.gov/nuccore/ON345293. Accessed 4 May 2022.
+
+ Howard,D., Batra,D., Cook,P.W., Caravas,J., Rambo-Martin,B., Sammons,S., Unoarumhi,Y., Schmerer,M., Lacek,K.A., Kendall,T., Caban Figueroa,V., Ca,H., Morrison,S., Gulvick,C., Sula,E., Paden,C.R. and MacCannell,D.“Severe Acute Respiratory Syndrome Coronavirus 2 Isolate SARS-CoV-2/Human/USA/MA-CDC-STM-BAW3HNWUN/2022, Complete Genome.” NCBI Nucleotide, 26 Apr. 2022, www.ncbi.nlm.nih.gov/nuccore/ON345291. Accessed 4 May 2022.
+
+ Howard,D., Batra,D., Cook,P.W., Caravas,J., Rambo-Martin,B., Sammons,S., Unoarumhi,Y., Schmerer,M., Lacek,K.A., Kendall,T., Caban Figueroa,V., Ca,H., Morrison,S., Gulvick,C., Sula,E., Paden,C.R. and MacCannell,D.“Severe Acute Respiratory Syndrome Coronavirus 2 Isolate SARS-CoV-2/Human/USA/MA-CDC-STM-CKEF52PWY/2022, Complete Genome.” NCBI Nucleotide, 26 Apr. 2022, www.ncbi.nlm.nih.gov/nuccore/ON345296. Accessed 4 May 2022.
+
+Howard,D., Batra,D., Cook,P.W., Caravas,J., Rambo-Martin,B. Sammons,S., Unoarumhi,Y., Schmerer,M., Lacek,K.A., Kendall,T., Caban Figueroa,V., Ca,H., Morrison,S., Gulvick,C., Sula,E., Paden,C.R. and MacCannell,D.“Severe Acute Respiratory Syndrome Coronavirus 2 Isolate SARS-CoV-2/Human/USA/MA-CDC-STM-CKPQ8WHER/2022, Complete Genome.” NCBI Nucleotide, 26 Apr. 2022, www.ncbi.nlm.nih.gov/nuccore/ON345288. Accessed 4 May 2022.
+
+ Lemieux,J.E., Siddle,K.J., Shaw,B., Adams,G., Pierce,V., Turbett,S., Anahtar,M., Branda,J., Slater,D., Harris,J., Lin,A.E.,Gladden-Young,A., Lagerborg,K., Rudy,M., DeRuff,K., Carter,A.,  Normandin,E., Bauer,M., Reilly,S., Tomkins-Tinch,C., Loreth,C.,Chaluvadi,S., Neumann,A., Cusick,C., Chapman,S.B., Gnirke,A.,Flowers,K., Cerrato,F., Birren,B.W., Gallagher,G., Smole,S., Park,D.J., MacInnis,B.L., Ryan,E., LaRocque,R., Rosenberg,E. and Sabeti,P.C.“Severe Acute Respiratory Syndrome Coronavirus 2 Isolate SARS-CoV-2/Human/USA/MA_MGH_00424/2020, Complete Genome.” NCBI Nucleotide, 4 June 2020, www.ncbi.nlm.nih.gov/nuccore/MT520472. Accessed 4 May 2022.
+
