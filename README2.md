@@ -41,7 +41,7 @@ Using a program called SnapGene we were able to align our sequences and compare 
 
      Huang, Y., Yang, C., Xu, Xf. et al. Structural and functional properties of SARS-CoV-2 spike protein: potential antivirus drug development for COVID-19. Acta Pharmacol Sin 41, 1141–1149 (2020). https://doi.org/10.1038/s41401-020-0485-4
 
-     Tahir S Pillay. Department of Chemical Pathology, Faculty of Health Sciences, University of Pretoria & National Health Laboratory Service, Pretoria, South Africa Division of Chemical Pathology, University of Cape Town, Cape Town, South Africa. http://orcid.org/0000-0002-9982-9710
+     Tahir S Pillay. Department of Chemical Pathology, Faculty of Health Sciences, University of Pretoria & National Health Laboratory Service, Pretoria, South Africa Division of Chemical Pathology, University of Cape Town, Cape Town, South Africa. https://jcp.bmj.com/content/73/7/366
 
 
 
