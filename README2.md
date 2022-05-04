@@ -15,6 +15,7 @@ The structure of the 29.3kb COVID-19 genome, highlighting the domains of the spi
 ## Methods
 10 complete sequences of SARS-CoV-2 from 2 different time periods (April 2020 & April 2022) were aquired from NCBI, with specifications of being isolated from oronasopharynx and of those located in MA, USA.
 Useing NCBI, a phylogentic tree was constructed, Figure 2, and an alignment was done, Figure 3. The alignment tool was limited to a certain number of nucleotides and unfortunatly we could not perform an analysis on a much larger sample. This alignment was imported to DNAsp, where the sequene was cut down to the 1274bp spike protein.
+![image](https://github.com/teehector10/gen711_final_project/blob/main/spikeProtein2022.png)
 
 ## Findings 
 When conducting our phylogenic tree, we were able to visualize the ancestral background of differing COVID-19 isolations. We were not able to add the Wohan strain to this tree because of constraints with the NCBI website feature. It would also have been nice to do more then 10 samples, but the alignment limited us and we chose to just do the 10 samples that were analyzed later on.
@@ -22,7 +23,7 @@ When conducting our phylogenic tree, we were able to visualize the ancestral bac
 As seen below, there is an obvious different phylogony to 2020 samples and 2022 samples. With possibility of there being 3 strains, 2022 having 2 forking from eachother.
 
 ### Figure 2 [Izzy]
-<img width="554" alt="Screen Shot 2022-05-01 at 3 03 05 PM" src="https://user-images.githubusercontent.com/103778546/166160815-f95a3ff4-ac0d-4ae6-b81e-3d841cc8141d.png">
+![image](https://user-images.githubusercontent.com/103778546/166160815-f95a3ff4-ac0d-4ae6-b81e-3d841cc8141d.png)
 
 When aligning the sequences in NCBI, we were able to look at how the COVID-19 genome differend in nucleotides sequences. The red color above shows areas of differences. There is obvious differences in the 2020 and 2022 samples, with an outlier sample in 2022. There are alot more mutations in comparion in the 2022 samples.
 
