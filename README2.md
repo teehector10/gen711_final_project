@@ -7,7 +7,7 @@ This project was inspired by a research report published in March 2021, which di
 Next-generation sequencing techniques of the metagenome and single-cell sequencing was applied to locate SARS-CoV-2 cellular hosts, to prevent interspecies transmission of this disease as well as other related public health scares to come. There is also indepth phylogenic analysis of COVID-19 that has lead to the identification and tracing of strains.
 Our project compares ten different COVID-19 geneome sequences of the oronasopharynx isolation, five from each time span of April 2020 and 5 from April 2022, in the United States patients, using fasta files to generate a Phylogenetic tree to visualize ancestral alterations and run an alignment for nucleotide sequence similarity. These sequences were aligned and imported to DNAsp to identify the spike protien region to furhter reveal nucleotide differences.
 
-![image](https://github.com/teehector10/gen711_final_project/blob/main/Covid_Domains.jpg)
+![image](https://github.com/teehector10/gen711_final_project/blob/main/CovidDomainsSmaller.png)
 ### Figure 1 
 The structure of the 29.3kb COVID-19 genome, highlighting the domains of the spike-protein
 
