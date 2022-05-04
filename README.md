@@ -9,7 +9,7 @@ This image from the previously cited paper titled "Next-Generation Sequencing Re
 ![image](https://user-images.githubusercontent.com/103778390/166063050-5dc2afef-0e22-4914-932f-a1e870fcead1.png)
 
 ## Methods [Tobi]
-For our project we downloaded fasta files containing the complete SARS-CoV-2 genome from samples taken from the oronasopharynx of infected individuals provided by the National Center for Biotechnology Information. We compared the sequences by running a BLAST alignment to observe any differences in the genomes between 2020 and 2022. Additionally, we constructed a phylogenic tree from the individual samples taken from each year to look at how closely related the two are, and whether there was minimal or greater divergence between the samples.
+For our project we downloaded fasta files containing the complete SARS-CoV-2 genome from samples taken from the oronasopharynx of infected individuals provided by the National Center for Biotechnology Information. The source were infected individuals in Massachusetts. From the NCBI website we could create a phylogenic tree and run an alignment on the different samples from 2020 and 2022. We also used software called Snap Gene which allowed further comparison of the COVID19 nucelotide sequences and identified where areas in the sequence varied and showed mutations. 
 
 ## Findings 
 When conducting our phylogenic tree, we were able to visualize the ancestral background of differing COVID-19 isolations. 
