@@ -21,7 +21,8 @@ When aligning the sequences, we were able to look at how COVID-19 has changed in
 ### Figure 3 [Brenna]
 <img width="1404" alt="Screen Shot 2022-04-29 at 4 22 42 PM" src="https://user-images.githubusercontent.com/103778546/166161725-1fa7f79c-138d-4303-9518-dd243ed94291.png">
 
-Using a program called SnapGene we were able to align our sequences and compare them to the original sequence from Wuhan and looked for changes. Our goal with using this program was to just look for differences but we decided to go further and try and look at where the most mutations occured. 
+Using a program called SnapGene we were able to align our sequences and compare them to the original sequence from Wuhan and looked for changes. Our goal with using this program was to just look for differences but we decided to go further and try and look at where the most mutations occured. This happened between 21,500 and 25,300 which is where according to protein coding sequence analzyzed by the NIH and PubMED is where the spike protein or the S surface glycoprotein is located (PubMed). 
+
 <img width="741" alt="Screen Shot 2022-04-29 at 5 06 56 PM" src="https://user-images.githubusercontent.com/103778546/166611587-e57c2f2b-b861-4f0b-8013-5a292182ccda.png">
 
 ## Sources 
@@ -39,3 +40,4 @@ Howard,D., Batra,D., Cook,P.W., Caravas,J., Rambo-Martin,B. Sammons,S., Unoarumh
 
  Lemieux,J.E., Siddle,K.J., Shaw,B., Adams,G., Pierce,V., Turbett,S., Anahtar,M., Branda,J., Slater,D., Harris,J., Lin,A.E.,Gladden-Young,A., Lagerborg,K., Rudy,M., DeRuff,K., Carter,A.,  Normandin,E., Bauer,M., Reilly,S., Tomkins-Tinch,C., Loreth,C.,Chaluvadi,S., Neumann,A., Cusick,C., Chapman,S.B., Gnirke,A.,Flowers,K., Cerrato,F., Birren,B.W., Gallagher,G., Smole,S., Park,D.J., MacInnis,B.L., Ryan,E., LaRocque,R., Rosenberg,E. and Sabeti,P.C.“Severe Acute Respiratory Syndrome Coronavirus 2 Isolate SARS-CoV-2/Human/USA/MA_MGH_00424/2020, Complete Genome.” NCBI Nucleotide, 4 June 2020, www.ncbi.nlm.nih.gov/nuccore/MT520472. Accessed 4 May 2022.
 
+PubMed, 30 Apr. 2022, www.ncbi.nlm.nih.gov/gene/43740568?report=full_report. Accessed 3 May 2022. 
