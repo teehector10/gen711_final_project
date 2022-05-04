@@ -21,5 +21,8 @@ When aligning the sequences, we were able to look at how COVID-19 has changed in
 ### Figure 3 [Brenna]
 <img width="1404" alt="Screen Shot 2022-04-29 at 4 22 42 PM" src="https://user-images.githubusercontent.com/103778546/166161725-1fa7f79c-138d-4303-9518-dd243ed94291.png">
 
+
+<img width="741" alt="Screen Shot 2022-04-29 at 5 06 56 PM" src="https://user-images.githubusercontent.com/103778546/166611587-e57c2f2b-b861-4f0b-8013-5a292182ccda.png">
+
 ## Sources 
 Xiaomin, Chen, et al. “Next-Generation Sequencing Reveals the Progression of COVID-19.” Frontiers in Cellular and Infection Microbiology, vol. 11, no. 2235-2988, 2021, https://doi.org/10.3389/fcimb.2021.632490. 
