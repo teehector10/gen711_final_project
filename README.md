@@ -21,7 +21,7 @@ When aligning the sequences, we were able to look at how COVID-19 has changed in
 ### Figure 3 [Brenna]
 <img width="1404" alt="Screen Shot 2022-04-29 at 4 22 42 PM" src="https://user-images.githubusercontent.com/103778546/166161725-1fa7f79c-138d-4303-9518-dd243ed94291.png">
 
-Using a program called SnapGene we were able to align our sequences and compare them to the original sequence from Wuhan and looked for changes. Our goal with using this program was to just look for differences but we decided to go further and try and look at where the most mutations occured. This happened between 21,500 and 25,300 which is where according to protein coding sequence analzyzed by the NIH and PubMED is where the spike protein or the S surface glycoprotein is located (PubMed). 
+Using a program called SnapGene we were able to align our sequences and compare them to the original sequence from Wuhan and looked for changes. Our goal with using this program was to just look for differences but we decided to go further and try and look at where the most mutations occured. This happened between 21,500 and 25,300 which is where according to protein coding sequence analzyzed by the NIH and PubMED is where the spike protein or the S surface glycoprotein is located (PubMed). So by analyzing this alignment we are able to see that there are mutations where this spike protein is located that are oresent in the 2022 sequences and not the 2020, showing us how COVID has mutated over time. 
 
 <img width="741" alt="Screen Shot 2022-04-29 at 5 06 56 PM" src="https://user-images.githubusercontent.com/103778546/166611587-e57c2f2b-b861-4f0b-8013-5a292182ccda.png">
 
