@@ -35,6 +35,7 @@ Using a program called SnapGene we were able to align our sequences and compare 
 
 <img width="802" alt="Screen Shot 2022-05-04 at 11 29 43 AM" src="https://user-images.githubusercontent.com/103778546/166808493-7fa9e8e3-b2e8-4fb8-96e9-43a1ed748742.png">
 
+By using SnapGene we were able to map out the domains of the spike protein based off of Figure 2. Figure 2 was an amino acid sequence so we had to convert to nucleotide sequence. We were able to do this by multiplying the amino acid position by 3. 
 
 ## Sources 
 
