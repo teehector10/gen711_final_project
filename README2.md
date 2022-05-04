@@ -33,9 +33,11 @@ When aligning the sequences in NCBI, we were able to look at how the COVID-19 ge
 
 Using a program called SnapGene we were able to align our sequences and compare them to the original sequence from Wuhan and looked for changes. Our goal with using this program was to just look for differences but we decided to go further and try and look at where the most mutations occured. The spike protein is a known area of mutation between strains and is located at 21,500bp and 25,300bp (PubMed). So by analyzing this alignment we are able to see that there are mutations where this spike protein is located that are oresent in the 2022 sequences and not the 2020, showing us how COVID has mutated over time. 
 
+### Figure 4
 <img width="802" alt="Screen Shot 2022-05-04 at 11 29 43 AM" src="https://user-images.githubusercontent.com/103778546/166808493-7fa9e8e3-b2e8-4fb8-96e9-43a1ed748742.png">
 
-By using SnapGene we were able to map out the domains of the spike protein based off of Figure 2. Figure 2 was an amino acid sequence so we had to convert to nucleotide sequence. We were able to do this by multiplying the amino acid position by 3. 
+By using SnapGene we were able to map out the domains of the spike protein based off of Figure 2. Figure 2 was an amino acid sequence so we had to convert to nucleotide sequence. We were able to do this by multiplying the amino acid position by 3. But what is really interesting about this figure (Figure 4) is that in the Receptor-Binding Domain for the 2022 sequences (ON345288.1 - ON345302.1) there were a lot of mutations that did not exist in 2020. We believe that this may be due to ACE2 receptor that binds to a spike on the virus. 
+
 
 ## Sources 
 
