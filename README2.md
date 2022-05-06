@@ -17,7 +17,7 @@ This image shows the the structure of the 29.3kb COVID-19 genome, highlighting t
 This image from the previously cited paper titled "Next-Generation Sequencing Revals the Progression of COVID-19" shows ACE2 expression levels in the human body as percentages per organ location (Xiaomin, et al. 2021). To apply to our project, the thyroid level of expression can correlate to the oronasopharynx isolation region.
 
 ## Methods
-For our project, fasta files containing ten complete SARS-CoV-2 genome sequences isolated from the oronasopharynx of COVID-19 patients in Massachusettss across two different time periods, April 2020 and April 2022, were aquired from NCBI. NCBI, National Center for Biotechnology Information, is a public database within the United States National Library of Medicine that is approved of and funded by the United States government. Using this company, a phylogentic tree was constructed, Figure 4, and a BLAST alignment was run, Figure 5. This alignment was then imported to DNAsp, where the sequence was cut down to the 1274bp spike protein, demonstarted by the domain image below. 
+For our project, fasta files containing ten complete SARS-CoV-2 genome sequences isolated from the oronasopharynx of COVID-19 patients in Massachusettss across two different time periods, April 2020 and April 2022, were aquired from NCBI. NCBI, National Center for Biotechnology Information, is a public database within the United States National Library of Medicine that is approved of and funded by the United States government. Using this database, a phylogentic tree was constructed, Figure 4, and a alignment was run, Figure 5. This alignment was then imported to DNAsp, where the sequence was cut down to the 3822bp (to represent the spike protein), demonstarted by the domain image below. 
 
 ### Figure 3 [Tobi] 
 
@@ -26,9 +26,9 @@ For our project, fasta files containing ten complete SARS-CoV-2 genome sequences
 This image is from a Gene of the Month article on SARS-CoV-2 within the larger Journal of Clinical Pathology, showing spike protein domains of COVID-19 (Pillay, 2020).
 
 ## Findings
-When conducting our phylogenic tree, we were able to visualize the ancestral background of differing COVID-19 isolations. We were not able to add the Wohan strain to this tree because of constraints with the NCBI website feature. It would also have been nice to do more then 10 samples, but the alignment limited us and we chose to just do the 10 samples that were analyzed later on.
+When conducting our phylogenic tree, we were able to visualize the ancestral background of differing COVID-19 isolations. We were not able to add the Wuhan strain to this tree because of constraints with the NCBI website feature. It would also have been nice to do more then 10 samples, but the alignment limited us by the size of the sequences so we chose to just do the 10 samples.
 
-As seen below, there is an obvious different phylogony to 2020 samples and 2022 samples. With possibility of there being 3 strains, 2022 having 2 forking from eachother.
+As seen below, there is an obvious different phylogony to 2020 samples and 2022 samples. With possibility of there being 3 strains, 2022 having forking away from eachother.
 
 ### Figure 4 [Izzy] 
 
