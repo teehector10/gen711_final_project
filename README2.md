@@ -46,7 +46,7 @@ Using a program called SnapGene we were able to align our sequences and compare 
 
 <img width="802" alt="Screen Shot 2022-05-04 at 11 29 43 AM" src="https://user-images.githubusercontent.com/103778546/166808493-7fa9e8e3-b2e8-4fb8-96e9-43a1ed748742.png">
 
-By using SnapGene we were able to map out the domains of the spike protein based off of Figure 2. Figure 2 was an amino acid sequence so we had to convert to nucleotide sequence. We were able to do this by multiplying the amino acid position by 3. But what is really interesting about this figure (Figure 4) is that in the Receptor-Binding Domain for the 2022 sequences (ON345288.1 - ON345302.1) there were a lot of mutations that did not exist in 2020. We believe that this may be due to ACE2 receptor that binds to a spike on the virus. 
+By using SnapGene we were able to map out the domains of the spike protein based off of Figure 2. Figure 2 was an amino acid sequence so we had to convert to nucleotide sequence. We were able to do this by multiplying the amino acid position by 3. But what is really interesting about this figure (Figure 6) is that in the Receptor-Binding Domain for the 2022 sequences (ON345288.1 - ON345302.1) there were a lot of mutations that did not exist in 2020. We believe that this may be due to ACE2 receptor that binds to a spike on the virus. 
 
 
 ## Research Sources 
