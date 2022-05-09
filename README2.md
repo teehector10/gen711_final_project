@@ -8,7 +8,7 @@ Our final project focuses on the COVID-19 pandemic. A disease which first infect
 
 ![image](https://github.com/teehector10/gen711_final_project/blob/main/CovidDomainsSmaller.png)
 
-This image shows the the structure of the 29.3 kb COVID-19 genome, highlighting the domains of different, individual spike proteins (Huang et al. 2020). 
+This image shows the the structure of the 29.3 kb COVID-19 genome, highlighting the domains of individual spike proteins (Huang et al. 2020). 
 
 ### Figure 2 
 
@@ -49,13 +49,13 @@ By using SnapGene we were able to map out the domains of the spike protein based
 
 ## Research Sources 
 
-     Xiaomin,C., Kang,Y., Luo,J., Pang,K., Xu,X., Wu,J., Li,X. and Jin,S. “Next-Generation Sequencing Reveals the Progression of COVID-19.” Frontiers in Cellular and Infection Microbiology, vol. 11, no. 2235-2988, 2021, https://doi.org/10.3389/fcimb.2021.632490. 
-
      Huang, Y., Yang, C., Xu, Xf. et al. Structural and functional properties of SARS-CoV-2 spike protein: potential antivirus drug development for COVID-19. Acta Pharmacol Sin, vol. 41, no. 1141–1149, 2020, https://doi.org/10.1038/s41401-020-0485-4. 
      
      Pillay, T.S. "Gene of the month: the 2019-nCoV/SARS-CoV-2 novel coronavirus spike protein." Journal of Clinical Pathology, vol. 73, no. 366-369, 2020, https://jcp.bmj.com/content/73/7/366. 
      
      PubMed, "S surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]." 30 Apr. 2022, www.ncbi.nlm.nih.gov/gene/43740568?report=full_report. 
+     
+     Xiaomin,C., Kang,Y., Luo,J., Pang,K., Xu,X., Wu,J., Li,X. and Jin,S. “Next-Generation Sequencing Reveals the Progression of COVID-19.” Frontiers in Cellular and Infection Microbiology, vol. 11, no. 2235-2988, 2021, https://doi.org/10.3389/fcimb.2021.632490. 
 
 ## Isolation sources
      Howard,D., Batra,D., Cook,P.W., Caravas,J., Rambo-Martin,B., Sammons,S., Unoarumhi,Y., Schmerer,M., Lacek,K.A., Kendall,T.,Caban Figueroa,V., Ca,H., Morrison,S., Gulvick,C., Sula,E., Paden,C.R. and MacCannell,D. “Severe Acute Respiratory Syndrome Coronavirus 2 Isolate SARS-CoV-2/Human/USA/MA-CDC-STM-3KU8AQYTU/2022, Complete Genome.” NCBI Nucleotide, 26 Apr. 2022, www.ncbi.nlm.nih.gov/nuccore/ON345302. 
