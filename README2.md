@@ -38,6 +38,8 @@ When aligning the sequences in NCBI, we were able to look at how the COVID-19 ge
 
 <img width="1404" alt="Screen Shot 2022-04-29 at 4 22 42 PM" src="https://user-images.githubusercontent.com/103778546/166161725-1fa7f79c-138d-4303-9518-dd243ed94291.png">
 
+This image was taken from the NCBI Multiple Sequence Alignment Viewer when selecting the sequences from the database. 
+
 Using a program called SnapGene we were able to align our sequences and compare them to the original sequence from Wuhan and looked for changes. Our goal with using this program was to just look for differences but we decided to go further and try and look at where the most mutations occured. The spike protein is a known area of mutations between strains and is located at 21,500bp and 25,300bp (PubMed). So by analyzing this alignment we are able to see that there are mutations where this spike protein is located that are present in the 2022 sequences and not the 2020, showing us how COVID has mutated over time. 
 
 ### Figure 6
@@ -77,6 +79,6 @@ By using SnapGene we were able to map out the domains of the spike protein based
      
      NCBI Tree Viewer https://www.ncbi.nlm.nih.gov/tools/treeviewer/
      
-     NCBI Multple Sequence Alignment Viewer https://www.ncbi.nlm.nih.gov/projects/msaviewer/
+     NCBI Multiple Sequence Alignment Viewer https://www.ncbi.nlm.nih.gov/projects/msaviewer/
      
      
