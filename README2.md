@@ -5,13 +5,11 @@
 Our final project focuses on the COVID-19 pandemic. A disease which first infected the Chinese population, COVID-19 was determined to be a novel coronavirus of SARS-CoV-2 through sequencing of isolates, and the seventh known to infect humans (Huang et al. 2020). As COVID-19 is caused by the highly transmissbale SARS-CoV-2, this project specifcially looks at the human-transmission isolation source of the oronasopharynx, meaning the mouth, nose, and pharynx region of the body. This study was inspired by a research report published in March 2021, which discusses in depth the sequencing methods that were employed to better understand the infection mechanism of SARS-CoV-2 via ACE2 receptor binding in different organ tissues, as well as how this information can be related to treatment methodologies in the future for affected patients of differing origins of infection. The paper compares ACE2 receptor expression levels in susceptible human tissues and organs at a variety of locations across the body, thus correlating to the origin of infection site in each patient. Next-generation sequencing techniques of the metagenome and single-cell sequencing were applied to locate SARS-CoV-2 cellular hosts, in order to prevent interspecies transmission of this disease as well as other related public health scares to come (Xiaomin et al. 2021). Additionally, a second research report used for reference titled "Structural and functional properties of SARS-CoV-2 spike protein: potential antivirus drug development for COVID-19" depicts an in-depth analysis of COVID-19 ancestral relations of mutation history that have lead to the identification and tracing of strains. Our project compares ten different COVID-19 geneome sequences of the oronasopharynx isolation, five from each time span of April 2020 or April 2022, located in Massachussetts, U.S. The data came from fasta files used to generate a Phylogenetic tree to visualize ancestral alterations as well as to run an alignment for nucleotide sequence similarity. These aligned sequences were then imported into DNAsp to identify important spike protein regions and further reveal diferences in nucleotides. All of these techniques can be utilized to deeper examine the genome alterations behind the deadly COVID-19 disease.   
 
 ### Figure 1 
-
 ![image](https://github.com/teehector10/gen711_final_project/blob/main/CovidDomainsSmaller.png)
 
 This image shows the the structure of the 29.3 kb COVID-19 genome, highlighting the domains of individual spike proteins (Huang et al. 2020). 
 
 ### Figure 2 
-
 ![image](https://user-images.githubusercontent.com/103778390/166063050-5dc2afef-0e22-4914-932f-a1e870fcead1.png)
 
 This image from the previously cited paper titled "Next-Generation Sequencing Revals the Progression of COVID-19" shows ACE2 expression levels in the human body as percentages per organ location (Xiaomin, et al. 2021). To apply to our project, the thyroid level of expression can correlate to the oronasopharynx isolation region.
@@ -22,7 +20,6 @@ For our project, fasta files containing ten complete SARS-CoV-2 genome sequences
 ### Figure 3  
 
 ![image](https://github.com/teehector10/gen711_final_project/blob/main/spikeProtein2022.png)
-
 This image is from a Gene of the Month article on SARS-CoV-2 within the larger Journal of Clinical Pathology, showing spike protein domains of COVID-19 (Pillay, 2020).
 
 ## Findings
@@ -31,7 +28,6 @@ When conducting our phylogenic tree, we were able to visualize the ancestral bac
 ### Figure 4  
 
 ![image](https://user-images.githubusercontent.com/103778546/166160815-f95a3ff4-ac0d-4ae6-b81e-3d841cc8141d.png)
-
 This image above shows the phylogenic tree of our sequences from the National Center for Biotechnology Information (NCBI). 
 
 When aligning the sequences in NCBI, we were able to look at how the COVID-19 genome differend in nucleotides sequences. The red color above shows areas of differences. There is obvious differences in the 2020 and 2022 samples, with an outlier sample in 2022. There are alot more mutations in comparion in the 2022 samples.
@@ -46,6 +42,7 @@ Using a program called SnapGene we were able to align our sequences and compare 
 
 <img width="802" alt="Screen Shot 2022-05-04 at 11 29 43 AM" src="https://user-images.githubusercontent.com/103778546/166808493-7fa9e8e3-b2e8-4fb8-96e9-43a1ed748742.png">
 This image from snap gene shows the spike protein domain of our sequences in alignment with the Wuhan sequence. 
+
 
 By using SnapGene we were able to map out the domains of the spike protein based off of Figure 3. Figure 3 was an amino acid sequence so we had to convert our alignment to a nucleotide sequence. We were able to do this by multiplying the amino acid position by 3. But what is really interesting about this figure (Figure 6) is that in the Receptor-Binding Domain for the 2022 sequences (ON345288.1 - ON345302.1) there were a lot of mutations that did not exist in 2020. We believe that this may be due to ACE2 receptor that binds to a spike on the virus. 
 
