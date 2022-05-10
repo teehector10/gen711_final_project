@@ -15,7 +15,7 @@ This image shows the the structure of the 29.3 kb COVID-19 genome, highlighting 
 This image from the previously cited paper titled "Next-Generation Sequencing Revals the Progression of COVID-19" shows ACE2 expression levels in the human body as percentages per organ location (Xiaomin, et al. 2021). To apply to our project, the thyroid level of expression can correlate to the oronasopharynx isolation region.
 
 ## Methods
-For our project, fasta files containing ten complete SARS-CoV-2 genome sequences, isolated from the oronasopharynx region of COVID-19 patients in Massachusettss across April 2020 and April 2022, were aquired from NCBI. NCBI, National Center for Biotechnology Information, is a public database within the United States National Library of Medicine that is officially approved of and funded by the United States government. Using this database, a phylogentic tree was constructed, Figure 4, and a alignment was performed, Figure 5. This nucleotide alignment was then downloaded and imported to SnapGene, another database, where they were aligned with the orginal 2019 Wuhan sequence. The sequences were cut down to the 3822 bp, to represent the specified spike protein of interest, which is demonstarted in the domain image below (Figure 3)
+For our project, fasta files containing ten complete SARS-CoV-2 genome sequences, isolated from the oronasopharynx region of COVID-19 patients in Massachusettss across April 2020 and April 2022, were aquired from NCBI. NCBI, National Center for Biotechnology Information, is a public database within the United States National Library of Medicine that is officially approved of and funded by the United States government. Using this database, a phylogentic tree was constructed, Figure 4, and a alignment was performed, Figure 5. This nucleotide alignment was then downloaded and imported to SnapGene, another database, where they were aligned with the orginal 2019 Wuhan sequence. The sequences were cut down to the 3822 bp, to represent the specified spike protein of interest, which is demonstarted in the domain image below (Figure 3). 
 
 ### Figure 3  
 
@@ -30,21 +30,21 @@ When conducting our phylogenic tree, we were able to visualize the ancestral bac
 
 ![image](https://user-images.githubusercontent.com/103778546/166160815-f95a3ff4-ac0d-4ae6-b81e-3d841cc8141d.png)
 
-This image above shows the phylogenic tree of our sequences from the National Center for Biotechnology Information (NCBI). 
+This image above shows the phylogenic tree of our sequences from the NCBI Tree Viewer. 
 
-When aligning the sequences in NCBI, we were able to look at how the COVID-19 genome differend in nucleotides sequences. The red color above shows areas of differences. There is obvious differences in the 2020 and 2022 samples, with an outlier sample in 2022. There are alot more mutations in comparion in the 2022 samples.
+When aligning the sequences in NCBI, we were able to look at how the COVID-19 genome differed in nucleotides sequences. The red color at the top of the figure (5) shows areas of differences. There is obvious differences in the 2020 and 2022 samples, with an outlier sample in 2022. There are alot more mutations in comparion in the 2022 samples.
 
 ### Figure 5 
 
 <img width="1404" alt="Screen Shot 2022-04-29 at 4 22 42 PM" src="https://user-images.githubusercontent.com/103778546/166161725-1fa7f79c-138d-4303-9518-dd243ed94291.png">
 
-Using a program called SnapGene we were able to align our sequences and compare them to the original sequence from Wuhan and looked for changes. Our goal with using this program was to just look for differences but we decided to go further and try and look at where the most mutations occured. The spike protein is a known area of mutation between strains and is located at 21,500bp and 25,300bp (PubMed). So by analyzing this alignment we are able to see that there are mutations where this spike protein is located that are oresent in the 2022 sequences and not the 2020, showing us how COVID has mutated over time. 
+Using a program called SnapGene we were able to align our sequences and compare them to the original sequence from Wuhan and looked for changes. Our goal with using this program was to just look for differences but we decided to go further and try and look at where the most mutations occured. The spike protein is a known area of mutation between strains and is located at 21,500bp and 25,300bp (PubMed). So by analyzing this alignment we are able to see that there are mutations where this spike protein is located that are present in the 2022 sequences and not the 2020, showing us how COVID has mutated over time. 
 
 ### Figure 6
 
 <img width="802" alt="Screen Shot 2022-05-04 at 11 29 43 AM" src="https://user-images.githubusercontent.com/103778546/166808493-7fa9e8e3-b2e8-4fb8-96e9-43a1ed748742.png">
 
-This image from snap gene shows the spike protein domain of our sequences in alignment with the Wuhan sequence. 
+This image from snap gene shows the spike protein domain of our sequences in alignment with the Wuhan sequence (SnapGene®). 
 
 
 By using SnapGene we were able to map out the domains of the spike protein based off of Figure 3. Figure 3 was an amino acid sequence so we had to convert our alignment to a nucleotide sequence. We were able to do this by multiplying the amino acid position by 3. But what is really interesting about this figure (Figure 6) is that in the Receptor-Binding Domain for the 2022 sequences (ON345288.1 - ON345302.1) there were a lot of mutations that did not exist in 2020. We believe that this may be due to ACE2 receptor that binds to a spike on the virus. 
@@ -71,3 +71,13 @@ By using SnapGene we were able to map out the domains of the spike protein based
      Howard,D., Batra,D., Cook,P.W., Caravas,J., Rambo-Martin,B. Sammons,S., Unoarumhi,Y., Schmerer,M., Lacek,K.A., Kendall,T., Caban Figueroa,V., Ca,H., Morrison,S., Gulvick,C., Sula,E., Paden,C.R. and MacCannell,D.“Severe Acute Respiratory Syndrome Coronavirus 2 Isolate SARS-CoV-2/Human/USA/MA-CDC-STM-CKPQ8WHER/2022, Complete Genome.” NCBI Nucleotide, 26 Apr. 2022, www.ncbi.nlm.nih.gov/nuccore/ON345288. 
 
      Lemieux,J.E., Siddle,K.J., Shaw,B., Adams,G., Pierce,V., Turbett,S., Anahtar,M., Branda,J., Slater,D., Harris,J., Lin,A.E.,Gladden-Young,A., Lagerborg,K., Rudy,M., DeRuff,K., Carter,A.,  Normandin,E., Bauer,M., Reilly,S., Tomkins-Tinch,C., Loreth,C.,Chaluvadi,S., Neumann,A., Cusick,C., Chapman,S.B., Gnirke,A.,Flowers,K., Cerrato,F., Birren,B.W., Gallagher,G., Smole,S., Park,D.J., MacInnis,B.L., Ryan,E., LaRocque,R., Rosenberg,E. and Sabeti,P.C.“Severe Acute Respiratory Syndrome Coronavirus 2 Isolate SARS-CoV-2/Human/USA/MA_MGH_00424/2020, Complete Genome.” NCBI Nucleotide, 4 June 2020, www.ncbi.nlm.nih.gov/nuccore/MT520472. 
+
+
+## Alignment/ Tree Figure Sources
+     SnapGene® software (from Insightful Science; available at snapgene.com).
+     
+     NCBI Tree Viewer https://www.ncbi.nlm.nih.gov/tools/treeviewer/
+     
+     
+     
+     
