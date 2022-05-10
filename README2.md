@@ -20,6 +20,7 @@ For our project, fasta files containing ten complete SARS-CoV-2 genome sequences
 ### Figure 3  
 
 ![image](https://github.com/teehector10/gen711_final_project/blob/main/spikeProtein2022.png)
+
 This image is from a Gene of the Month article on SARS-CoV-2 within the larger Journal of Clinical Pathology, showing spike protein domains of COVID-19 (Pillay, 2020).
 
 ## Findings
@@ -28,6 +29,7 @@ When conducting our phylogenic tree, we were able to visualize the ancestral bac
 ### Figure 4  
 
 ![image](https://user-images.githubusercontent.com/103778546/166160815-f95a3ff4-ac0d-4ae6-b81e-3d841cc8141d.png)
+
 This image above shows the phylogenic tree of our sequences from the National Center for Biotechnology Information (NCBI). 
 
 When aligning the sequences in NCBI, we were able to look at how the COVID-19 genome differend in nucleotides sequences. The red color above shows areas of differences. There is obvious differences in the 2020 and 2022 samples, with an outlier sample in 2022. There are alot more mutations in comparion in the 2022 samples.
@@ -41,6 +43,7 @@ Using a program called SnapGene we were able to align our sequences and compare 
 ### Figure 6
 
 <img width="802" alt="Screen Shot 2022-05-04 at 11 29 43 AM" src="https://user-images.githubusercontent.com/103778546/166808493-7fa9e8e3-b2e8-4fb8-96e9-43a1ed748742.png">
+
 This image from snap gene shows the spike protein domain of our sequences in alignment with the Wuhan sequence. 
 
 
