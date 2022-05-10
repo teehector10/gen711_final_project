@@ -78,6 +78,6 @@ By using SnapGene we were able to map out the domains of the spike protein based
      
      NCBI Tree Viewer https://www.ncbi.nlm.nih.gov/tools/treeviewer/
      
-     
+     NCBI Multple Sequence Alignment Viewer https://www.ncbi.nlm.nih.gov/projects/msaviewer/
      
      
